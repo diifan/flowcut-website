@@ -31,7 +31,7 @@ Terms and Privacy adapt AceCut’s structure to FlowCut’s yoga recognition, ed
 
 ## App availability
 
-The project records App Store ID 6827605284. Apple’s public lookup returned no listing on October 29, 2026, so the website explicitly says Coming soon and uses an email availability CTA. Replace this with the verified public App Store URL when the listing launches. Product panels are labeled illustrative; they are not claimed to be actual release screenshots.
+The project records App Store ID 6827605284. Apple’s public lookup returned no listing on October 29, 2026, so the website retains a Coming soon availability note. The hero and closing App Store badges point to the registered app’s direct URL, https://apps.apple.com/app/id6827605284; the public listing will become available when Apple releases it. Product panels are labeled illustrative; they are not claimed to be actual release screenshots.
 
 ## Hosting and metadata
 
