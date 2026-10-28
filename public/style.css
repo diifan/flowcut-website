@@ -7,3 +7,5 @@
 
 /* App Store badges and the shared AceCut contact icon. */
 .store-badge{display:inline-flex;align-items:center;gap:12px;padding:11px 18px;border:1px solid transparent;border-radius:3px;background:var(--cream);color:var(--green);font-family:Arial,Helvetica,sans-serif;max-width:100%;flex-shrink:0;min-height:60px;text-decoration:none;letter-spacing:0}.store-badge:hover{text-decoration:none;background:var(--lime)}.store-badge svg{width:30px;height:35px;flex:none}.store-badge>span{display:flex;flex-direction:column;gap:2px}.store-badge small{font-size:11px;line-height:1.1}.store-badge b{font-size:25px;line-height:1.05;font-weight:500;letter-spacing:-.6px}.footer-email{display:inline-flex;align-items:center;gap:8px}.footer-email svg{width:16px;height:16px;flex:none}
+
+.brand:hover{text-decoration:none}
